@@ -17,4 +17,30 @@ This is a simple Python application that allows you to convert between PDF and P
 You can install the required libraries using the following command:
 
 ```bash
-pip install pdf2image fpdf
+   pip install pdf2image fpdf   
+
+```
+## How to Use
+
+1.Clone this repository or download the source code.\n
+
+
+
+
+2.Open a terminal or command prompt and navigate to the repository directory.\n
+
+
+
+3.Run the following command to start the application:\n
+
+
+```bash
+   python PDF\ and\ PNG\ Converter.py 
+
+```
+or
+```bash
+   python3 PDF\ and\ PNG\ Converter.py 
+
+```
+
